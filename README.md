@@ -14,4 +14,10 @@ The objective is to analyse retail sales data to identify insights related to:
 - Excel
 - SQL
 - Power BI
-  
+
+## Excel Analysis
+- Performed data cleaning and formatting
+- Conducted exploratory data analysis using pivot tables
+- Built interactive charts across regions and categories
+- Created a dynamic dashboard with slicers or filtering
+- Used Vlookup and Xlookup for targeted data retrieval
