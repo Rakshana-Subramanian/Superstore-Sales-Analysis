@@ -30,6 +30,7 @@ The objective is to analyse retail sales data to identify insights related to:
 - Analysed discount impact on profit using case when
 - Identified high value customers using subqueries
 
-  **Author**
-  Rakshana Subramanian
+
+**Author**
+Rakshana Subramanian
   
