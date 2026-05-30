@@ -21,6 +21,7 @@ The objective is to analyse retail sales data to identify insights related to:
 - Built interactive charts across regions and categories
 - Created a dynamic dashboard with slicers or filtering
 - Used Vlookup and Xlookup for targeted data retrieval
+**🖼 Screenshots Attached — Data Cleaning, Dashboard**
 
 ## SQL Analysis
 - Analysed sales and profit by region,category and customer segment
@@ -38,6 +39,8 @@ The objective is to analyse retail sales data to identify insights related to:
 - Designed interactive dashboard with slicers and drill-through
 - Technology generates highest profit at $113K
 - Tables and Bookcases are loss making sub-categories
+**🖼 Screenshots Attached — Data Cleaning, 
+  Data Modelling, Executive Summary Dashboard**
 
 
 **Author**
