@@ -11,9 +11,15 @@ The objective is to analyse retail sales data to identify insights related to:
 - Profit analysis
 
 ## Tools used
-- Excel
+- Excel 
 - SQL
 - Power BI
+
+## 📁 Dataset
+- Source: Kaggle — Sample Superstore Dataset
+- Records: 9,994 orders
+- Columns: 20 features
+- Period: 2014 to 2017
 
 ## Excel Analysis
 - Performed data cleaning and formatting
