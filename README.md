@@ -30,6 +30,15 @@ The objective is to analyse retail sales data to identify insights related to:
 - Analysed discount impact on profit using case when
 - Identified high value customers using subqueries
 
+## Power BI Analysis
+
+- Cleaned and transformed 9,994 rows using Power Query
+- Built Star Schema with 1 Fact table and 4 Dimension tables
+- Created 20+ DAX measures for Sales, Profit and Growth analysis
+- Designed interactive dashboard with slicers and drill-through
+- Technology generates highest profit at $113K
+- Tables and Bookcases are loss making sub-categories
+
 
 **Author**
 Rakshana Subramanian
